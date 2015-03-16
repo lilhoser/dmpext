@@ -1,0 +1,1 @@
+This windbg extension displays basic information about drivers in the Windows crash dump stack.
